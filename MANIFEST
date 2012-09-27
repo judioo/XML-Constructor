@@ -1,0 +1,10 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/XML/Constructor.pm
+t/00-class.t
+t/01-parent-node.t
+t/02-markup.t
+t/manifest.t
+t/pod-coverage.t
